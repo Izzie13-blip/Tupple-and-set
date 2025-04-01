@@ -1,0 +1,5 @@
+friends=('Liz', 'Jaden', 'Fredrick', 'Mark','Alice')
+print(friends)
+print(friends[1])
+print(friends[3])
+print(friends[0:3])

@@ -1,0 +1,10 @@
+s1={1,2,3,4,5,6,6,7,8,}
+print(s1)
+s1.add(9)
+print(s1)
+Sa={3,4,5,6,7,8,9}
+Sb={2,5,7,8,9}
+print(Sa.intersection(Sb))
+print(Sa.union(Sb))
+print(Sa.difference(Sb))
+print(Sa.symmetric_difference(Sb))
